@@ -2,7 +2,7 @@
 const staticCacheName = 'site-static-v3';
 const dynamicCacheName = 'site-dynamic-v3';
 var filesToCache = [
-  '/',
+  // '/',
   '/offline/index.html',
   '/offline/css/style.css',
   '/offline/js/main.js'
